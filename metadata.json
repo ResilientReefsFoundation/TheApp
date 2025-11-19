@@ -1,0 +1,7 @@
+{
+  "name": "CoralTrackerNoLogin",
+  "description": "A web page to display all the information being collected on a coral branch in a coral nursery, including location, age, health reports, and a photo album with management features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
